@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(To Left, #80b3ff, #99ff99);
+}
+
+h1{
+    font-size: 25px;
+}
+
+.btn-success:hover{
+    background-image: radial-gradient(#000000, #ff0000);
+    color: blue;
+}
+
+canvas{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
